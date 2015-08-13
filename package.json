@@ -1,0 +1,16 @@
+{
+  "name": "heroku_test",
+  "version": "0.0.0",
+  "description": "Heroku Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Heroku",
+    "Test"
+  ],
+  "author": "Ian Rider",
+  "license": "ISC"
+}
