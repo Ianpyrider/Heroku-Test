@@ -7,8 +7,6 @@ app.get('/', function (req, res) {
 });
 
 var server = app.listen(port, function () {
-
-  console.log('Example app listening at http://%s:%s', host, port);
 });
 
 //https://github.com/Ianpyrider/Heroku-Test.git
