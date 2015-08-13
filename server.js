@@ -6,7 +6,6 @@ app.get('/', function (req, res) {
   res.send('Hello World!');
 });
 
-var server = app.listen(port, function () {
-});
+var server = app.listen(port);
 
 //https://github.com/Ianpyrider/Heroku-Test.git
